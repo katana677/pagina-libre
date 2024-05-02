@@ -1,0 +1,52 @@
+
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin: 12;
+    padding: 10;
+    color: #000000;
+    background-color: rgb(175, 187, 179);
+  }
+  
+  header {
+    background-color: #989bb9;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 5px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+    background-color: #bdbeb1;
+  }
+  
+  nav ul li {
+    display: -moz-inline-box;
+  }
+  
+  nav ul li a {
+    display: block;
+    padding: 20px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    background-color: #77c775;
+  }
+  
+  main {
+    padding: 20px;
+    font-size: 30px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  footer {
+    background-color: #7d806e;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
